@@ -1,0 +1,13 @@
+//
+//  NHPrefixHeader.pch
+//  NHDuanZi
+//
+//  Created by 蚁族 on 2017/3/30.
+//  Copyright © 2017年 蚁族. All rights reserved.
+//
+
+#ifndef NHPrefixHeader_pch
+#define NHPrefixHeader_pch
+#import "NHCommonConstant.h"
+#import "MBProgressHUD+NHAddition.h"
+#endif /* NHPrefixHeader_pch */
